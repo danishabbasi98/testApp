@@ -1,0 +1,525 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1 1`] = `
+<div>
+  <nav
+    className="navbar navbar-light bg-dark"
+    mb-2={true}
+  >
+    <div
+      className="container-fluid"
+    >
+      <a
+        className="text-white navbar-brand"
+      >
+        <svg
+          className="font-size-xxl"
+          fill="currentColor"
+          height="1em"
+          stroke="currentColor"
+          strokeWidth="0"
+          style={
+            Object {
+              "color": undefined,
+            }
+          }
+          viewBox="0 0 512 512"
+          width="1em"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <path
+            d="M32 192L256 64l224 128-224 128L32 192z"
+            fill="none"
+            strokeLinecap="round"
+            strokeLinejoin="round"
+            strokeWidth="32"
+          />
+          <path
+            d="M112 240v128l144 80 144-80V240m80 128V192M256 320v128"
+            fill="none"
+            strokeLinecap="round"
+            strokeLinejoin="round"
+            strokeWidth="32"
+          />
+        </svg>
+        <span
+          className="font-size-l ml-3"
+          data-testid="span-name"
+        >
+          School Manager Application
+        </span>
+      </a>
+    </div>
+  </nav>
+  <div
+    className="mt-3 container"
+  >
+    <div
+      className="row"
+    >
+      <div
+        className="col-sm-4"
+      >
+        <div
+          className="card card-body"
+        >
+          <h5
+            className="card-title"
+          >
+            <svg
+              className="font-size-xl"
+              fill="currentColor"
+              height="1em"
+              stroke="currentColor"
+              strokeWidth="0"
+              style={
+                Object {
+                  "color": undefined,
+                }
+              }
+              viewBox="0 0 512 512"
+              width="1em"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <circle
+                cx="256"
+                cy="56"
+                r="56"
+              />
+              <path
+                d="M304 128h-96a64.19 64.19 0 00-64 64v107.52c0 10.85 8.43 20.08 19.27 20.47A20 20 0 00184 300v-99.73a8.18 8.18 0 017.47-8.25 8 8 0 018.53 8V489a23 23 0 0023 23 23 23 0 0023-23V346.34a10.24 10.24 0 019.33-10.34A10 10 0 01266 346v143a23 23 0 0023 23 23 23 0 0023-23V200.27a8.18 8.18 0 017.47-8.25 8 8 0 018.53 8v99.52c0 10.85 8.43 20.08 19.27 20.47A20 20 0 00368 300V192a64.19 64.19 0 00-64-64z"
+              />
+            </svg>
+             
+            0
+             Students
+          </h5>
+          <p
+            className="card-text"
+          >
+            With supportking text below as a natural lead in to additional content.
+          </p>
+          <button
+            aria-label={null}
+            className="btn btn-secondary"
+            data-testid="button-test"
+            onClick={[Function]}
+          >
+            Manage Students
+          </button>
+        </div>
+      </div>
+      <div
+        className="col-sm-4"
+      >
+        <div
+          className="card card-body"
+        >
+          <h5
+            className="card-title"
+          >
+            <svg
+              className="font-size-xl"
+              fill="currentColor"
+              height="1em"
+              stroke="currentColor"
+              strokeWidth="0"
+              style={
+                Object {
+                  "color": undefined,
+                }
+              }
+              viewBox="0 0 512 512"
+              width="1em"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M32 192L256 64l224 128-224 128L32 192z"
+                fill="none"
+                strokeLinecap="round"
+                strokeLinejoin="round"
+                strokeWidth="32"
+              />
+              <path
+                d="M112 240v128l144 80 144-80V240m80 128V192M256 320v128"
+                fill="none"
+                strokeLinecap="round"
+                strokeLinejoin="round"
+                strokeWidth="32"
+              />
+            </svg>
+             
+            0
+             Teachers
+          </h5>
+          <p
+            className="card-text"
+          >
+            With supportking text below as a natural lead in to additional content.
+          </p>
+          <button
+            aria-label={null}
+            className="btn btn-secondary"
+            onClick={[Function]}
+          >
+            Manage Teacher
+          </button>
+        </div>
+      </div>
+      <div
+        className="col-sm-4"
+      >
+        <div
+          className="card card-body"
+        >
+          <h5
+            className="card-title"
+          >
+            <svg
+              className="font-size-xl"
+              fill="currentColor"
+              height="1em"
+              stroke="currentColor"
+              strokeWidth="0"
+              style={
+                Object {
+                  "color": undefined,
+                }
+              }
+              viewBox="0 0 512 512"
+              width="1em"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M434.8 137.65l-149.36-68.1c-16.19-7.4-42.69-7.4-58.88 0L77.3 137.65c-17.6 8-17.6 21.09 0 29.09l148 67.5c16.89 7.7 44.69 7.7 61.58 0l148-67.5c17.52-8 17.52-21.1-.08-29.09zM160 308.52l-82.7 37.11c-17.6 8-17.6 21.1 0 29.1l148 67.5c16.89 7.69 44.69 7.69 61.58 0l148-67.5c17.6-8 17.6-21.1 0-29.1l-79.94-38.47"
+                fill="none"
+                strokeLinecap="round"
+                strokeLinejoin="round"
+                strokeWidth="32"
+              />
+              <path
+                d="M160 204.48l-82.8 37.16c-17.6 8-17.6 21.1 0 29.1l148 67.49c16.89 7.7 44.69 7.7 61.58 0l148-67.49c17.7-8 17.7-21.1.1-29.1L352 204.48"
+                fill="none"
+                strokeLinecap="round"
+                strokeLinejoin="round"
+                strokeWidth="32"
+              />
+            </svg>
+             
+            0
+              Subjects
+          </h5>
+          <p
+            className="card-text"
+          >
+            With supportking text below as a natural lead in to additional content.
+          </p>
+          <button
+            aria-label={null}
+            className="btn btn-secondary"
+            onClick={[Function]}
+          >
+            Manage Subjects
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    className="mt-4 container"
+  >
+    <div
+      className="row"
+    >
+      <div
+        className="col-sm-12"
+      >
+        <button
+          aria-label={null}
+          className="btn btn-success d-block w-100"
+          data-testid="button"
+          onClick={[Function]}
+          type="button"
+        >
+          <span
+            className="font-size-l"
+          >
+            Create New Student 
+          </span>
+        </button>
+      </div>
+    </div>
+  </div>
+  <div
+    className="mt-4 container"
+  >
+    <h2
+      title="List Student"
+    >
+      All Students List
+    </h2>
+  </div>
+</div>
+`;
+
+exports[`matches snapshot 2 1`] = `
+<div>
+  <nav
+    className="navbar navbar-light bg-dark"
+    mb-2={true}
+  >
+    <div
+      className="container-fluid"
+    >
+      <a
+        className="text-white navbar-brand"
+      >
+        <svg
+          className="font-size-xxl"
+          fill="currentColor"
+          height="1em"
+          stroke="currentColor"
+          strokeWidth="0"
+          style={
+            Object {
+              "color": undefined,
+            }
+          }
+          viewBox="0 0 512 512"
+          width="1em"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <path
+            d="M32 192L256 64l224 128-224 128L32 192z"
+            fill="none"
+            strokeLinecap="round"
+            strokeLinejoin="round"
+            strokeWidth="32"
+          />
+          <path
+            d="M112 240v128l144 80 144-80V240m80 128V192M256 320v128"
+            fill="none"
+            strokeLinecap="round"
+            strokeLinejoin="round"
+            strokeWidth="32"
+          />
+        </svg>
+        <span
+          className="font-size-l ml-3"
+          data-testid="span-name"
+        >
+          School Manager Application
+        </span>
+      </a>
+    </div>
+  </nav>
+  <div
+    className="mt-3 container"
+  >
+    <div
+      className="row"
+    >
+      <div
+        className="col-sm-4"
+      >
+        <div
+          className="card card-body"
+        >
+          <h5
+            className="card-title"
+          >
+            <svg
+              className="font-size-xl"
+              fill="currentColor"
+              height="1em"
+              stroke="currentColor"
+              strokeWidth="0"
+              style={
+                Object {
+                  "color": undefined,
+                }
+              }
+              viewBox="0 0 512 512"
+              width="1em"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <circle
+                cx="256"
+                cy="56"
+                r="56"
+              />
+              <path
+                d="M304 128h-96a64.19 64.19 0 00-64 64v107.52c0 10.85 8.43 20.08 19.27 20.47A20 20 0 00184 300v-99.73a8.18 8.18 0 017.47-8.25 8 8 0 018.53 8V489a23 23 0 0023 23 23 23 0 0023-23V346.34a10.24 10.24 0 019.33-10.34A10 10 0 01266 346v143a23 23 0 0023 23 23 23 0 0023-23V200.27a8.18 8.18 0 017.47-8.25 8 8 0 018.53 8v99.52c0 10.85 8.43 20.08 19.27 20.47A20 20 0 00368 300V192a64.19 64.19 0 00-64-64z"
+              />
+            </svg>
+             
+            0
+             Students
+          </h5>
+          <p
+            className="card-text"
+          >
+            With supportking text below as a natural lead in to additional content.
+          </p>
+          <button
+            aria-label={null}
+            className="btn btn-secondary"
+            data-testid="button-test"
+            onClick={[Function]}
+          >
+            Manage Students
+          </button>
+        </div>
+      </div>
+      <div
+        className="col-sm-4"
+      >
+        <div
+          className="card card-body"
+        >
+          <h5
+            className="card-title"
+          >
+            <svg
+              className="font-size-xl"
+              fill="currentColor"
+              height="1em"
+              stroke="currentColor"
+              strokeWidth="0"
+              style={
+                Object {
+                  "color": undefined,
+                }
+              }
+              viewBox="0 0 512 512"
+              width="1em"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M32 192L256 64l224 128-224 128L32 192z"
+                fill="none"
+                strokeLinecap="round"
+                strokeLinejoin="round"
+                strokeWidth="32"
+              />
+              <path
+                d="M112 240v128l144 80 144-80V240m80 128V192M256 320v128"
+                fill="none"
+                strokeLinecap="round"
+                strokeLinejoin="round"
+                strokeWidth="32"
+              />
+            </svg>
+             
+            0
+             Teachers
+          </h5>
+          <p
+            className="card-text"
+          >
+            With supportking text below as a natural lead in to additional content.
+          </p>
+          <button
+            aria-label={null}
+            className="btn btn-secondary"
+            onClick={[Function]}
+          >
+            Manage Teacher
+          </button>
+        </div>
+      </div>
+      <div
+        className="col-sm-4"
+      >
+        <div
+          className="card card-body"
+        >
+          <h5
+            className="card-title"
+          >
+            <svg
+              className="font-size-xl"
+              fill="currentColor"
+              height="1em"
+              stroke="currentColor"
+              strokeWidth="0"
+              style={
+                Object {
+                  "color": undefined,
+                }
+              }
+              viewBox="0 0 512 512"
+              width="1em"
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M434.8 137.65l-149.36-68.1c-16.19-7.4-42.69-7.4-58.88 0L77.3 137.65c-17.6 8-17.6 21.09 0 29.09l148 67.5c16.89 7.7 44.69 7.7 61.58 0l148-67.5c17.52-8 17.52-21.1-.08-29.09zM160 308.52l-82.7 37.11c-17.6 8-17.6 21.1 0 29.1l148 67.5c16.89 7.69 44.69 7.69 61.58 0l148-67.5c17.6-8 17.6-21.1 0-29.1l-79.94-38.47"
+                fill="none"
+                strokeLinecap="round"
+                strokeLinejoin="round"
+                strokeWidth="32"
+              />
+              <path
+                d="M160 204.48l-82.8 37.16c-17.6 8-17.6 21.1 0 29.1l148 67.49c16.89 7.7 44.69 7.7 61.58 0l148-67.49c17.7-8 17.7-21.1.1-29.1L352 204.48"
+                fill="none"
+                strokeLinecap="round"
+                strokeLinejoin="round"
+                strokeWidth="32"
+              />
+            </svg>
+             
+            0
+              Subjects
+          </h5>
+          <p
+            className="card-text"
+          >
+            With supportking text below as a natural lead in to additional content.
+          </p>
+          <button
+            aria-label={null}
+            className="btn btn-secondary"
+            onClick={[Function]}
+          >
+            Manage Subjects
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    className="mt-4 container"
+  >
+    <div
+      className="row"
+    >
+      <div
+        className="col-sm-12"
+      >
+        <button
+          aria-label={null}
+          className="btn btn-success d-block w-100"
+          data-testid="button"
+          onClick={[Function]}
+          type="button"
+        >
+          <span
+            className="font-size-l"
+          >
+            Create New Student 
+          </span>
+        </button>
+      </div>
+    </div>
+  </div>
+  <div
+    className="mt-4 container"
+  >
+    <h2
+      title="List Student"
+    >
+      All Students List
+    </h2>
+  </div>
+</div>
+`;

@@ -27,6 +27,18 @@
 .App-link {
   color: #61dafb;
 }
+.font-sze-xxl{
+  font-size: 3 em;
+}
+.font-sze-xl{
+  font-size: 2 em;
+}
+.font-sze-l{
+  font-size: 1.5 em;
+}
+.font-sze-l{
+  font-size: 1 em;
+}
 
 @keyframes App-logo-spin {
   from {
